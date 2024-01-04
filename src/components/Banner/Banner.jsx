@@ -3,7 +3,7 @@ import { motion } from "framer-motion"
 
 const Banner = ({isVisible}) => {
   return (
-    <div className='w-full h-[80vh]' 
+    <div className='w-full h-[90vh]' 
     style={{
         backgroundImage: "url(https://olvagroup.com/wp-content/uploads/2023/12/ovin-1536x1024-1-1024x683.jpg)",
         backgroundPosition: "center",

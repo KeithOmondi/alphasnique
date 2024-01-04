@@ -4,6 +4,7 @@ import Banner from '../Banner/Banner'
 import About from '../About/About'
 import Facts from '../Facts/Facts'
 import Profile from '../Profile/Profile'
+import MyStory from '../Story/MyStory'
 
 const HomePage = () => {
   return (
@@ -13,6 +14,7 @@ const HomePage = () => {
     <About />
     <Facts />
     <Profile />
+    <MyStory />
     </>
   )
 }
