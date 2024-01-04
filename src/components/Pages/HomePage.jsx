@@ -5,6 +5,8 @@ import About from '../About/About'
 import Facts from '../Facts/Facts'
 import Profile from '../Profile/Profile'
 import MyStory from '../Story/MyStory'
+import Blog from '../Blog/Blog'
+import Contact from '../Contact/Contact'
 
 const HomePage = () => {
   return (
@@ -15,6 +17,8 @@ const HomePage = () => {
     <Facts />
     <Profile />
     <MyStory />
+    <Blog />
+    <Contact />
     </>
   )
 }
