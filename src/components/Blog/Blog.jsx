@@ -121,11 +121,11 @@ const Blog = () => {
     border: ".2rem solid yellow",
   }}
 >
-  <div className="pb-4 md:pb-36 pl-1 ">
+  <div className="pb-4 md:pb-36 pl-1">
     <h1 className="md:border-b-2 md:mb-4" style={{ borderBottom: ".2rem solid yellow" }}>
       Get in touch
     </h1>
-    <div className="flex gap-1 pt-4">
+    <div className="flex gap-2 pt-4">
       <FaFacebookF
         size={20}
         color="black"

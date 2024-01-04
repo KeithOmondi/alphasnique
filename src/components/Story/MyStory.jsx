@@ -50,8 +50,12 @@ const MyStory = () => {
               MENTORSHIP
             </h1>
           </div>
+          
 
           <div className="bg-white md:absolute w-full md:w-[50%] right-0 top-0 h-full md:h-[100%] pl-4 md:pl-24 flex flex-col justify-right items-right text-center p-8">
+          <h1 className="left-0 top-0 justify-left font-bold text-[30px] items-left text-left p-2 pt-3 bg-yellow-600 border-md">
+          MENTORSHIP
+          </h1>
           
           <h1 className="left-0 top-0 justify-left font-bold text-[30px] items-left text-left p-2 pt-3 border-b-[2px] border-blue-500">
           ASK ALPHA ARCHIVES - CAPITAL BUSINESS
