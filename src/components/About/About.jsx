@@ -17,7 +17,7 @@ const About = () => {
       >
 
         {/* Conditionally render the div based on screen size */}
-        <div className='hidden md:absolute w-[50%] right-0 top-0 h-screen pl-24 flex flex-col justify-right items-right text-center p-8'>
+        <div className='md:absolute w-[50%] right-0 top-0 h-screen pl-24 flex flex-col justify-right items-right text-center p-8'>
           <h1
             className='justify-left items-left left-0 text-[3rem] font-bold pt-24 justify-center text-center pl-4'
             style={{ borderBottom: ".8rem solid yellow", width: "50%" }}
@@ -44,16 +44,14 @@ const About = () => {
           </div>
           <div className='left-0 top-0 justify-left text-[15px] items-left text-left p-2'>
             <p>
-              MR. Alpha Snique (h. c.) is a leading Kenyan entrepreneur with investments in the Media,
-              Manufacturing, Property Management, Insurance and Investment Sectors of our economy.
-              He is an alumnus of INSEAD Institute in France, Handles University in Sweden and Harvard Business School, USA.
-              In acknowledgment of his contributions to the field of entrepreneurship,
-              he was conferred with an Honorary Philosophical Doctorate in Entrepreneurship by the SMA University, Switzerland.
+            Alpha Snique is a leading Kenyan entrepreneur with investments in the Automotive, Technology, Tourism Manufacturing, 
+            Property Management, Insurance and Investment Sectors of our economy.
+             He is an alumnus of New York University in USA, Shang Tao Media Arts College in Kenya and Texas State College, USA. 
               <br />
+              Alpha Snique is Chairman of Snique Motors Limited, Olva Group Inc, Snique Adventures Limited, Fitro Kenya Limited, Alpha Snique Foundation among others. 
+              He is Co-founder of Ganji Credit Limited and is a director and shareholder at the Ochoka East African Limited
               <br />
-              Dr. Kirubi is Chairman of Haco Tiger Brands Kenya Limited, Capital Media Group,
-              International House Limited, DHL Worldwide Express Limited, Nairobi Bottlers, and Smart Applications International Limited among others.
-              He is Deputy Chairman of Bayer East Africa Limited and is a director and shareholder at the Centum Investment Group
+              Alpha Snique is also passionate about making a difference in the lives of disenfranchised groups and is involved in a number of social causes.
             </p>
           </div>
         </div>
